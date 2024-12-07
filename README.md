@@ -23,11 +23,11 @@ Antes de ejecutar este proyecto, asegúrate de tener:
 
 1. Cloná este repositorio a tu máquina local:
    ```bash
-   git clone https://github.com/TuUsuario/SimpleDEX-Ethereum.git
+   git clone https://github.com/TuUsuario/Proyecto_SimpleDEX_Final.git
  
 2. Navegá al directorio del proyecto:
    ```bash
-   cd SimpleDEX-Ethereum
+   cd Proyecto_SimpleDEX_Final
 
 3. Abrí el archivo index.html en tu navegador.
 
